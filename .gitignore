@@ -1,0 +1,19 @@
+# Dependências do Node.js
+node_modules/
+package-lock.json
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Pastas do editor de código
+.vscode/
+.idea/
+
+# Arquivos temporários
+*.log
